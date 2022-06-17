@@ -141,6 +141,15 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "Cow",
+      "species": "Barn",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "16"
     }
   ]
 }
