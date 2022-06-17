@@ -150,6 +150,24 @@
         "goofy"
       ],
       "id": "16"
+    },
+    {
+      "name": "Cow",
+      "species": "Barn",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Cow",
+      "species": "Barn",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "18"
     }
   ]
 }
